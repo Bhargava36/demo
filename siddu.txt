@@ -33,17 +33,6 @@ margin-top:300px;
 <div>
 <label for="password">Password</label>
 <input type="password" name="password"></div>
-
-
-
-
-
-
-
-
-
-
-
 <center>
 </body>
 </html>
